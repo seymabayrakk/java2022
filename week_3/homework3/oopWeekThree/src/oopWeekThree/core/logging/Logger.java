@@ -1,0 +1,5 @@
+package oopWeekThree.core.logging;
+
+public interface Logger {
+	void log(String data);
+}

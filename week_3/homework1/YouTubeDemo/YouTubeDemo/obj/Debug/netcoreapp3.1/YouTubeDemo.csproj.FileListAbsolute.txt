@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\YouTubeDemo\YouTubeDemo\bin\Debug\netcoreapp3.1\YouTubeDemo.exe
+C:\Users\Lenovo\source\repos\YouTubeDemo\YouTubeDemo\bin\Debug\netcoreapp3.1\YouTubeDemo.deps.json
+C:\Users\Lenovo\source\repos\YouTubeDemo\YouTubeDemo\bin\Debug\netcoreapp3.1\YouTubeDemo.runtimeconfig.json
+C:\Users\Lenovo\source\repos\YouTubeDemo\YouTubeDemo\bin\Debug\netcoreapp3.1\YouTubeDemo.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\YouTubeDemo\YouTubeDemo\bin\Debug\netcoreapp3.1\YouTubeDemo.dll
+C:\Users\Lenovo\source\repos\YouTubeDemo\YouTubeDemo\bin\Debug\netcoreapp3.1\YouTubeDemo.pdb
+C:\Users\Lenovo\source\repos\YouTubeDemo\YouTubeDemo\obj\Debug\netcoreapp3.1\YouTubeDemo.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\YouTubeDemo\YouTubeDemo\obj\Debug\netcoreapp3.1\YouTubeDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\YouTubeDemo\YouTubeDemo\obj\Debug\netcoreapp3.1\YouTubeDemo.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\YouTubeDemo\YouTubeDemo\obj\Debug\netcoreapp3.1\YouTubeDemo.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\YouTubeDemo\YouTubeDemo\obj\Debug\netcoreapp3.1\YouTubeDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\YouTubeDemo\YouTubeDemo\obj\Debug\netcoreapp3.1\YouTubeDemo.dll
+C:\Users\Lenovo\source\repos\YouTubeDemo\YouTubeDemo\obj\Debug\netcoreapp3.1\YouTubeDemo.pdb
+C:\Users\Lenovo\source\repos\YouTubeDemo\YouTubeDemo\obj\Debug\netcoreapp3.1\YouTubeDemo.genruntimeconfig.cache
